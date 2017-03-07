@@ -37,8 +37,14 @@ Notes and Worksheet
 Jupyter Notebook
 ----------------
 
-View: `OpenBoundaryConditions`_
-Download: `OpenBoundaryConditions.ipynb`_ 
+View: 
+
+`OpenBoundaryConditions`_
+
+Download: 
+
+`OpenBoundaryConditions.ipynb`_ 
+
 `swe_module.py`_
 
 **Open Boundaries**
@@ -48,11 +54,9 @@ Closed, periodic, passive and active boundaries are considered.
 
 .. _OpenBoundaryConditions: https://nbviewer.jupyter.org/urls/bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/OpenBoundaryConditions.ipynb
 
-.. _OpenBoundaryConditions.ipynb:
-https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/OpenBoundaryConditions.ipynb
+.. _OpenBoundaryConditions.ipynb: https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/OpenBoundaryConditions.ipynb
 
-.. _swe_module.py:
-https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/swe_module.py
+.. _swe_module.py: https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/swe_module.py
 
 
 
