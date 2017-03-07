@@ -47,6 +47,8 @@ Download:
 
 `swe_module.py`_
 
+`grid_lateral.png`_
+
 **Open Boundaries**
 
 An introduction to lateral boundary conditions using a simple shallow water equation model.
@@ -57,6 +59,8 @@ Closed, periodic, passive and active boundaries are considered.
 .. _OpenBoundaryConditions.ipynb: https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/OpenBoundaryConditions.ipynb
 
 .. _swe_module.py: https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/swe_module.py
+
+.. _grid_lateral.png: https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/grid_lateral.png
 
 
 
