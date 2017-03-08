@@ -60,7 +60,7 @@ Closed, periodic, passive and active boundaries are considered.
 
 .. _swe_module.py: https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/swe_module.py
 
-.. _grid_lateral.png: https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/grid_lateral.png
+.. _grid_lateral.png: https://bitbucket.org/sea_susanallen/uqar-winter-school/raw/tip/WS-MEOPAR/grid_lateral.png
 
 
 

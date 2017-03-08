@@ -157,4 +157,4 @@ def make_line_plots(eta_next, u_next, v_next, direction, ii):
         print ('Direction unknown, use eastwest or northsouth')
     axs[0].set_title('Surface Height')
     axs[1].set_title('East Velocity')
-    axs[2].set_title('West Velocity')
+    axs[2].set_title('North Velocity')
